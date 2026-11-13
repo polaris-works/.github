@@ -26,7 +26,9 @@ Small, focused apps that do one thing well: fast, private by default, and free o
 
 | App | What it does | Status |
 |-----|--------------|--------|
-| _Coming soon_ | Our first app is on its way. | In development |
+| **Bodega** | Shopping list and meal planner with recipes, weekly menus, and shop-based organisation. | ✅ Available — [Web app](https://bodega.polarisworks.duckdns.org/) · [APK](https://github.com/polaris-works/shopping-list/releases/latest) |
+| **Attire** | Wardrobe organiser that creates colour-coordinated outfits using Sanzo Wada's colour combinations. | 🕒 Coming soon |
+| **Spinach** | Track the restaurants and dishes you like, filter them by price or distance, and spin a roulette to choose what to eat. | 🕒 Coming soon |
 
 ### ✦ Get in touch
 
