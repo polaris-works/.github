@@ -30,4 +30,4 @@ Small, focused Android apps that do one thing well: fast, private by default, an
 
 ### ✦ Get in touch
 
-Found a bug or have an idea? Email us at [hello.polarisworks@gmail.com](mailto:hello.polarisworks@gmail.com).
+Found a bug or have an idea? Open an issue in the app's repository, or email [hello.polarisworks@gmail.com](mailto:hello.polarisworks@gmail.com).
